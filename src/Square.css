@@ -1,0 +1,16 @@
+.square {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+}
+
+.square:hover {
+    background-color: aqua;
+}
+
+.square:active {
+    background-color: rgb(29, 156, 156);
+}
