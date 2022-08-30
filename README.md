@@ -6,4 +6,4 @@
 
 ## Then you can run the app with this command :
 
-### npm run
+### npm start
